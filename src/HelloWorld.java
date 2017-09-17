@@ -5,6 +5,8 @@ public class HelloWorld {
 		System.out.println("This is edited in remote");
 
 		System.out.println("This line created in develop branch");
+
+		System.out.println("Added this line in new_feature_branch");
 	}
 }
 
